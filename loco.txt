@@ -3,3 +3,5 @@ this is the edited file
 Sulu edited this txt file
 
 I have added one more line to this file.
+
+I am editing it again to test the diff command
